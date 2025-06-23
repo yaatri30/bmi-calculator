@@ -11,7 +11,7 @@ A simple and responsive Body Mass Index (BMI) calculator built with **HTML**, **
 - Background image with hover opacity effect
 
 ## 📸 Demo
-![alt text](<bmi before hover.png>)
+![BMI Calculator Snapshot](bmi-working.png)
 
 ## 💡 Technologies Used
 - HTML5
