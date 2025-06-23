@@ -1,0 +1,63 @@
+ body{
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       background-image: url(../bmi.jpg);
+       background-repeat: no-repeat;
+       background-position: center;
+       background-size: cover;
+        }
+
+      h1{
+        color: blue;
+        font-size: 20px;
+        text-align: center;
+        font-size: 40px;
+      }
+
+      #bmiForm{
+        width: 500px;
+        height:50vh;
+        background-color: transparent;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .card{
+           background-color: transparent;
+           border: 2px solid navy;
+      }
+
+      .card:hover{
+        background-color: white;
+      }
+
+      label{
+        line-height: 60px;
+       }
+
+       input[type="radio"]{
+        width: 40px;
+        height: 15px;
+       }
+
+.progress-bar.red {
+  background-color: #dc3545 !important;
+}
+
+.progress-bar.orange {
+  background-color: #fd7e14 !important;
+}
+
+.progress-bar.gold {
+  background-color: #ffc107 !important;
+}
+
+.progress-bar.green {
+  background-color: #28a745 !important;
+}
+
+.progress-bar{
+  width: 50%;
+  background-color: midnightblue;
+  color: white;
+  border-radius: 30px;
+}
